@@ -1,0 +1,12 @@
+{
+  "description": "I'm a software developer currently employed at Ebner Industrieofenbau GmbH. I enjoy creating unique and simplistic user interfaces in creative ways.",
+  "skills": [
+    "C#",
+    "Angular",
+    "SQL Server",
+    "Docker",
+    "OPC UA communication",
+    "TCP/IP communication"
+  ],
+  "detailOrQuote": "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all."
+}
